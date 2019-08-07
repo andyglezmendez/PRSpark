@@ -1,7 +1,6 @@
 *.class
 *.log
 /.idea
-/libs
 /resource
 /test_resources
 /out
